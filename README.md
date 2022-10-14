@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi Ranjan</h1>
-<h3 align="center">A passionate backend java developer from India</h3>
+<h3 align="center">A passionate fullstack java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi1049&label=Profile%20views&color=0e75b6&style=flat" alt="shashi1049" /> </p>
 
