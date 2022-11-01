@@ -55,6 +55,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 ### :fire: My Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi1049&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashi1049" /></p>
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi1049&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashi1049"/></p>
 
