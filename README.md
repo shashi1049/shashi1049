@@ -1,5 +1,37 @@
+
+<img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" width="500" style="max-width: 100%;">
+<div style="display: flex; justify-content: space-around;" >
+<div>
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Shashi+Ranjan!;Java+Backend+Developer...;" style="max-width: 100%;">
+<br/>
+<!-- <h3 align="left">A Java Backend developer</h3> -->
+Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a good grasp on core Java concepts. Self-motivated with a strong problem-solving mindset, interested in building user-centric & scalable products. Looking forward to joining a progressive organization to work on some interesting ideas.
+</div>
+    <div>
+       <!-- <img align="center" alt="Coding" heigh="50" width="50%" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" style="max-width: 100%>   -->
+     
+        
+</div>
+</div>
+                                                                                                                                                   
+---
+---
+<div>
+    <img align="right" alt="Coding" height="250" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+</div>
+
+
+
 <h1 align="center">Hi 👋, I'm Shashi Ranjan</h1>
 <h3 align="center">A passionate backend java developer from India</h3>
+
+<h6 align="center">I am passionate about technology, innovation and big challenging tasks on my to do list.</h6>
+    <img
+      align="right"
+      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+      alt="Coding"
+      width="400"
+    />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi1049&label=Profile%20views&color=0e75b6&style=flat" alt="shashi1049" /> </p>
 
