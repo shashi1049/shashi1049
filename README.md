@@ -26,18 +26,13 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 <h3 align="center">A passionate backend java developer from India</h3>
 
 <h6 align="center">I am passionate about technology, innovation and big challenging tasks on my to do list.</h6>
-    <img
-      align="right"
-      src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-      alt="Coding"
-      width="400"
-    />
+    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi1049&label=Profile%20views&color=0e75b6&style=flat" alt="shashi1049" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **JAVA, springBoot,MySQL**
+- 💬 Ask me about **JAVA, springBoot, MySQL, Hibernate**
 - Checkout my <a href="https://shashi1049.github.io">Portfolio</a>
 
 - 📫 How to reach me **shashi290396@gmail.com**
