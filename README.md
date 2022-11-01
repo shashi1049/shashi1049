@@ -47,7 +47,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
 
-</p> -->
+</p>
 </p>
 
 ---
@@ -55,6 +55,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 ### :fire: My Stats :
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi1049&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashi1049" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi1049&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashi1049"/></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashi1049&theme=dark&background=000000)](https://github.com/shashi1049)
