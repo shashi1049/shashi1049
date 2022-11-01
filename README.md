@@ -55,15 +55,12 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 
 ---
 
-My Github Stats
-<p><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi1049&show_icons=true&locale=en&layout=compact" alt="shashi1049" /></p>
-<br>
-
-</a> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi1049&show_icons=true&locale=en&layout=compact" alt="shashi1049" /></p>
-<br>
-<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=shashi1049&show_icons=true&locale=en" alt="shashi1049" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi1049&show_icons=true&locale=en" alt="shashi1049" /></p>
-<br>
-
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi1049&" alt="shashi1049" /></p>
+### :fire: My Stats :
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi1049&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashi1049" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi1049&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashi1049"/></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashi1049&theme=dark&background=000000)](https://github.com/shashi1049)
+<img src="https://activity-graph.herokuapp.com/graph?username=shashi1049&theme=xcode">
+<img src="https://raw.githubusercontent.com/shivamgarg796/java/master/SB-101-sprint-3-Evaluation/src/com/question1/shivam.snake.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+---
+<img align="center" width="100%" src="https://camo.githubusercontent.com/3876d84a7281cfe74943eba94e61437f66d6d7a509b561282845d48cb9036c68/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d707269796134326261676465267468656d653d6f6e656461726b266d617267696e2d683d3135266d617267696e2d773d35266e6f2d62673d74727565" alt="TROPHY" style="max-width: 100%;">
+---
