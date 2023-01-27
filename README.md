@@ -75,7 +75,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashi1049&theme=dark&background=000000)](https://github.com/shashi1049)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=shashi1049&theme=xcode">
+
 
 <img src="https://raw.githubusercontent.com/shivamgarg796/java/master/SB-101-sprint-3-Evaluation/src/com/question1/shivam.snake.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
