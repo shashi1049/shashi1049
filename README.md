@@ -27,7 +27,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 - Checkout my <a href="https://shashi1049.github.io">Portfolio</a>
 
 - 📫 How to reach me **shashi290396@gmail.com**
--  Know about my experiences [Resume](https://drive.google.com/file/d/1RDnFP64YXCuGtp-CjFnpcFl2qi1cXYNd/view?usp=share_link)
+-  Know about my experiences [Resume](https://drive.google.com/file/d/1JKRPjVIR8jJpItNW3t929vvRgSq6TGx4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
